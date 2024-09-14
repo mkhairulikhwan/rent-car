@@ -23,7 +23,7 @@
                     <a href="#" class="nav-item nav-link"><i class="fa fa-money-bill-wave me-2"></i>Transaksi</a>
                     <a href="#" class="nav-item nav-link"><i class="fa fa-file-alt me-2"></i>Laporan</a>
                     <a href="#" class="nav-item nav-link"><i class="fa fa-car me-2"></i>Mobil</a>
-                    <a href="#" class="nav-item nav-link"><i class="fa fa-users me-2"></i>Users</a>
+                    <a href="{{ route('users') }}" class="nav-item nav-link"><i class="fa fa-users me-2"></i>Users</a>
 
                 </div>
             </nav>
